@@ -1,0 +1,76 @@
+[{
+    "nombre": "RAM 8GB DDR4 2666 MHz",
+    "precio": 6000,
+    "id": 1,
+    "imagenes": "imagenes/ram.jpg"
+  },
+
+  {
+    "nombre": "mother phantom gaming z590",
+    "precio": 26000,
+    "id": 2,
+    "imagenes": "imagenes/motherg.jpg"
+  },
+
+  {
+    "nombre": "SSD 240 GB",
+    "precio": 8000,
+    "id": 3,
+    "imagenes": "imagenes/ssd.jpg"
+  },
+
+  {
+    "nombre": "Intel® Core™ i3 12100F 4.3GHZ",
+    "precio": 34000,
+    "id": 4,
+    "imagenes": "imagenes/i3p.jpg"
+  },
+  {
+    "nombre": "Intel® Core™ i5 i5-12400F 4.4GHz",
+    "precio": 65000,
+    "id": 5,
+    "imagenes": "imagenes/i5.jpg"
+  },
+ 
+  {
+    "nombre": "AMD Ryzen 5",
+    "precio": 56000,
+    "id": 6,
+    "imagenes": "imagenes/ryzen 5.jpg"
+  },
+ 
+  {
+    "nombre": "AMD Ryzen 7",
+    "precio": 76000,
+    "id": 7,
+    "imagenes": "imagenes/ryzen 7.jpg"
+  },
+ 
+  {
+    "nombre": "GTX Gigabyte 1660",
+    "precio": 78000,
+    "id": 8,
+    "imagenes": "imagenes/gtx.jpg"
+  },
+ 
+  {
+    "nombre": "RTX 2080 Ti",
+    "precio": 546000,
+    "id": 9,
+    "imagenes": "imagenes/rtx.jpg"
+  },
+ 
+  {
+    "nombre": "PC Oficina",
+    "precio": 86000,
+    "id": 10,
+    "imagenes": "imagenes/pc.webp"
+  } ,
+ 
+  {
+    "nombre": "PC Gamer",
+    "precio": 230000,
+    "id": 11,
+    "imagenes": "imagenes/pcg.png"
+  }
+]
